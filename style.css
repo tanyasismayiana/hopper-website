@@ -1,0 +1,70 @@
+body{
+    background-color: #15214B;
+}
+.Gallery{
+/* background-color: #5CC7CD; */
+}
+.leads{
+    display: flex;
+    padding: 4%;
+    margin-left: 4%;
+
+}
+
+.row1{
+    display: flex;
+    padding: 4%;
+}
+
+.row2{
+    display: flex;
+    padding: 4%;
+
+}
+.row3{
+    display: flex;
+}
+h1{
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Marie{
+    margin-left: 5%;
+ 
+}
+.Samantha{
+    margin-left: 5%;
+}
+.pic{
+    margin-left: 5%; 
+}
+.pic1{
+    margin-left: 5%; 
+}
+.pic2{
+    margin-left: 5%; 
+}
+.pic3{
+    margin-left: 5%; 
+}
+.pic4{
+    margin-left: 5%; 
+}
+.pic5{
+    margin-left: 5%; 
+}
+.head{
+   text-align: center;
+   color: #FFFFFF;
+}
+.pic6{
+    margin-left: 8%; 
+}
+.pic7{
+    margin-left: 5%; 
+}
+.pic8{
+    margin-left: 5%; 
+}
+
